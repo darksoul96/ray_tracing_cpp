@@ -1,0 +1,3 @@
+/home/agustin/c_plus_plus_workspace/ray_tracing_cpp/build/CMakeFiles/RayTracing_by_Agustin_Ruiz.dir
+/home/agustin/c_plus_plus_workspace/ray_tracing_cpp/build/CMakeFiles/edit_cache.dir
+/home/agustin/c_plus_plus_workspace/ray_tracing_cpp/build/CMakeFiles/rebuild_cache.dir

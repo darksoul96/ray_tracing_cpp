@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o -o RayTracing_by_Agustin_Ruiz 
