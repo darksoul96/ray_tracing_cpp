@@ -238,6 +238,7 @@ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o: ../main.cpp \
   ../camera.h \
   ../color.h \
   ../hittable.h \
+  ../material.h \
   ../hittable_list.h \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_vector.h \
@@ -248,11 +249,13 @@ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o: ../main.cpp \
 
 ../sphere.h:
 
-/usr/include/c++/11/bits/vector.tcc:
-
 /usr/include/c++/11/bits/stl_bvector.h:
 
 ../hittable_list.h:
+
+/usr/include/c++/11/bits/vector.tcc:
+
+../material.h:
 
 ../hittable.h:
 

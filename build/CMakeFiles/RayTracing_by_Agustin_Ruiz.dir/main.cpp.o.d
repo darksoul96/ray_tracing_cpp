@@ -196,6 +196,7 @@ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o: \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/camera.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/color.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/hittable.h \
+ /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/material.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/hittable_list.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
