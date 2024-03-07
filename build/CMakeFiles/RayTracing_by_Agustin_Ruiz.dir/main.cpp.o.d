@@ -150,6 +150,7 @@ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
+ /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/interval.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/ray.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/vec3.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
@@ -192,11 +193,8 @@ CMakeFiles/RayTracing_by_Agustin_Ruiz.dir/main.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/fstream \
- /usr/include/c++/11/bits/codecvt.h \
- /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
- /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
- /usr/include/c++/11/bits/fstream.tcc \
+ /usr/include/c++/11/bits/istream.tcc \
+ /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/camera.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/color.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/hittable.h \
  /home/agustin/c_plus_plus_workspace/ray_tracing_cpp/hittable_list.h \
